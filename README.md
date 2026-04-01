@@ -16,7 +16,7 @@ Education
 
 Marticulation Examination Myanmar ( 2021)
 
-Diploma in Business Mabagement ( PS Business Collere)
+Diploma in Business Mabagement (PS Business College)
 
 Experience
 
