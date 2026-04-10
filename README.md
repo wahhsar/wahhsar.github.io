@@ -1,65 +1,45 @@
-Naw Wah Hsar Kelar Paw
-Chiang Mai, Thailand  | 09-26853544  | peepee8102003@gmail.com 
-+2
+# [cite_start]Naw Wah Hsar Kelar Paw [cite: 2]
+[cite_start]**.119, Mueang Chiang Mai, Chiang Mai, Thailand (P.T. Mansion)** [cite: 3]  
+[cite_start]**Email:** peepee8102003@gmail.com [cite: 4] | [cite_start]**Phone:** 09-26853544 [cite: 5]
 
-Personal Profile
+---
 
-Date of Birth: 08.11.2003 
+### [cite_start]Personal Information [cite: 6]
+* [cite_start]**Date of Birth:** 08.11.2003 [cite: 9]
+* [cite_start]**Age:** 22 years [cite: 23]
+* [cite_start]**Gender:** Female [cite: 17]
+* [cite_start]**Marital Status:** Single [cite: 20]
+* [cite_start]**Nationality:** Myanmar [cite: 21]
+* [cite_start]**Ethnic:** Karen [cite: 20]
+* [cite_start]**Religion:** Christian [cite: 26]
+* [cite_start]**N.R.C No:** 12/ YaPaTha (N) 095814 [cite: 11]
+* [cite_start]**Passport No:** MJ054822 [cite: 14]
 
-Age: 22 years 
+### [cite_start]Education Background [cite: 27]
+* [cite_start]**Bachelor of English for Career Development (Second Year)** [cite: 37]
+    * [cite_start]Payap University (Thailand), January 2025 – current [cite: 36, 37]
+* [cite_start]**ABE Level 5 Diploma in Business Management** [cite: 35]
+    * [cite_start]PS Business School (Myanmar), June 2024 – Break [cite: 33, 35]
+* [cite_start]**ABE Level 4 Diploma in Business Management** [cite: 34]
+    * [cite_start]PS Business School (Myanmar), June 2023 – May 2024 [cite: 33, 34]
+* [cite_start]**Professional Diploma in Human Resource Management & Development** [cite: 32]
+    * [cite_start]Strategy First University (Myanmar), 2022-2023 [cite: 31, 32]
+* [cite_start]**Matriculation Exam** [cite: 30]
+    * [cite_start]Kaung Su San Private High School (Myanmar), Passed in 2020 [cite: 29, 30]
 
-Nationality: Myanmar 
+### [cite_start]Work Experiences [cite: 38]
+[cite_start]**Volunteer (Youth Entrepreneurship Program)** [cite: 39, 40]
+[cite_start]*American Center Yangon, 24 April 2024 – 2 May 2024* [cite: 39, 40]
+* [cite_start]Communicate to the participants for the workshop [cite: 41]
+* [cite_start]Assist the program leader during the workshop [cite: 42]
+* [cite_start]Facilitate the group activities during the workshop [cite: 43]
 
-Ethnicity: Karen 
+### Skills
+* [cite_start]**Interpersonal Skills:** Honest [cite: 45][cite_start], Reliable [cite: 46][cite_start], Willingness to learn new things [cite: 47][cite_start], Friendly [cite: 48]
+* [cite_start]**Computer Skills:** Internet/E-mail [cite: 54][cite_start], Microsoft Office Word [cite: 55][cite_start], Microsoft Power Point [cite: 56][cite_start], Canva [cite: 57]
+* [cite_start]**Language Skills:** Burmese [cite: 59][cite_start], Karen [cite: 60][cite_start], English [cite: 61]
 
-Gender: Female 
-
-Marital Status: Single 
-
-Religion: Christian 
-
-Passport No: MJ054822 
-
-Education Background
-
-Bachelor of English for Career Development (Second Year) 
-
-Payap University, Thailand (January 2025 – Current) 
-
-ABE Level 5 Diploma in Business Management 
-+1
-
-PS Business School, Myanmar (June 2024 – Break) 
-+1
-
-ABE Level 4 Diploma in Business Management 
-
-PS Business School, Myanmar (June 2023 – May 2024) 
-
-Professional Diploma in Human Resource Management & Development 
-
-Strategy First University, Myanmar (2022 – 2023) 
-
-Matriculation Exam 
-
-Kaung Su San Private High School, Myanmar (Passed 2020) 
-
-Work Experience
-
-Volunteer | Youth Entrepreneurship Program American Center Yangon (April 24, 2024 – May 2, 2024) 
-
-Communicated with participants regarding the workshop.
-
-Assisted the program leader during the workshop.
-
-Facilitated group activities during the workshop.
-
-Skills & Interests
-
-Languages: Burmese, Karen, and English.
-
-Computer Skills: Microsoft Word, PowerPoint, Canva, and Internet/Email.
-
-Interpersonal Skills: Honest, reliable, friendly, and a strong willingness to learn new things.
-
-Interests & Hobbies: Social work, cooking, and handmade crafts.
+### [cite_start]Interest & Hobbies [cite: 49]
+* [cite_start]Social Work [cite: 50]
+* [cite_start]Cooking [cite: 51]
+* [cite_start]Handmade [cite: 52]

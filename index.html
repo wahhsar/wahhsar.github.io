@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Naw Wah Hsar Kelar Paw</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --accent-color: #3498db;
+            --text-color: #333;
+            --light-bg: #f4f7f6;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--light-bg);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: #fff;
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        /* Sidebar Styling */
+        .sidebar {
+            background-color: var(--primary-color);
+            color: #fff;
+            padding: 40px 30px;
+        }
+
+        .sidebar h2 {
+            font-size: 1.2rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+
+        .contact-item {
+            margin-bottom: 15px;
+            font-size: 0.9rem;
+        }
+
+        .contact-item strong {
+            display: block;
+            color: var(--accent-color);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+        }
+
+        /* Main Content Styling */
+        .main-content {
+            padding: 40px;
+        }
+
+        .header {
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            line-height: 1.2;
+        }
+
+        .section-title {
+            color: var(--primary-color);
+            border-left: 4px solid var(--accent-color);
+            padding-left: 15px;
+            text-transform: uppercase;
+            font-size: 1.1rem;
+            margin: 40px 0 20px;
+        }
+
+        .entry {
+            margin-bottom: 25px;
+        }
+
+        .entry-title {
+            font-weight: bold;
+            font-size: 1.1rem;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .entry-subtitle {
+            color: var(--accent-color);
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+
+        .entry-date {
+            font-size: 0.85rem;
+            color: #7f8c8d;
+        }
+
+        ul {
+            padding-left: 20px;
+            margin-top: 5px;
+        }
+
+        li {
+            margin-bottom: 5px;
+        }
+
+        .skill-tag {
+            display: inline-block;
+            background: #e1e8ed;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 0.85rem;
+            margin: 0 5px 5px 0;
+            color: var(--primary-color);
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            .sidebar {
+                padding: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="sidebar">
+        <h2>Contact</h2>
+        <div class="contact-item">
+            <strong>Address</strong>
+            .119, Mueang Chiang Mai, Chiang Mai, Thailand (P.T. Mansion)
+        </div>
+        <div class="contact-item">
+            <strong>Email</strong>
+            peepee8102003@gmail.com
+        </div>
+        <div class="contact-item">
+            <strong>Phone</strong>
+            09-26853544
+        </div>
+
+        <h2>Personal</h2>
+        <div class="contact-item"><strong>Date of Birth</strong> 08.11.2003</div>
+        <div class="contact-item"><strong>Age</strong> 22 years</div>
+        <div class="contact-item"><strong>Nationality</strong> Myanmar</div>
+        <div class="contact-item"><strong>Ethnic</strong> Karen</div>
+        <div class="contact-item"><strong>NRC No</strong> 12/ YaPaTha (N) 095814</div>
+        <div class="contact-item"><strong>Passport</strong> MJ054822</div>
+
+        <h2>Languages</h2>
+        <div class="contact-item">Burmese</div>
+        <div class="contact-item">Karen</div>
+        <div class="contact-item">English</div>
+    </div>
+
+    <div class="main-content">
+        <div class="header">
+            <h1>Naw Wah Hsar Kelar Paw</h1>
+        </div>
+
+        <h2 class="section-title">Education</h2>
+        
+        <div class="entry">
+            <div class="entry-title">
+                Bachelor of English for Career Development
+                <span class="entry-date">Jan 2025 - Current</span>
+            </div>
+            <div class="entry-subtitle">Payap University (Thailand) - Second Year</div>
+        </div>
+
+        <div class="entry">
+            <div class="entry-title">
+                ABE Level 5 Diploma in Business Management
+                <span class="entry-date">June 2024 - Break</span>
+            </div>
+            <div class="entry-subtitle">PS Business School (Myanmar)</div>
+        </div>
+
+        <div class="entry">
+            <div class="entry-title">
+                ABE Level 4 Diploma in Business Management
+                <span class="entry-date">June 2023 - May 2024</span>
+            </div>
+            <div class="entry-subtitle">PS Business School (Myanmar)</div>
+        </div>
+
+        <div class="entry">
+            <div class="entry-title">
+                Professional Diploma in HRM & Development
+                <span class="entry-date">2022 - 2023</span>
+            </div>
+            <div class="entry-subtitle">Strategy First University (Myanmar)</div>
+        </div>
+
+        <h2 class="section-title">Work Experience</h2>
+
+        <div class="entry">
+            <div class="entry-title">
+                Volunteer (Youth Entrepreneurship Program)
+                <span class="entry-date">April 2024 - May 2024</span>
+            </div>
+            <div class="entry-subtitle">American Center Yangon</div>
+            <ul>
+                <li>Communicate to the participants for the workshop</li>
+                <li>Assist the program leader during the workshop</li>
+                <li>Facilitate the group activities during the workshop</li>
+            </ul>
+        </div>
+
+        <h2 class="section-title">Skills & Hobbies</h2>
+        <p>
+            <strong>Technical:</strong> 
+            <span class="skill-tag">Microsoft Word</span> 
+            <span class="skill-tag">PowerPoint</span> 
+            <span class="skill-tag">Canva</span>
