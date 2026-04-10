@@ -1,31 +1,65 @@
-# wahhsar.github.io
 Naw Wah Hsar Kelar Paw
+Chiang Mai, Thailand  | 09-26853544  | peepee8102003@gmail.com 
++2
 
-second year student
+Personal Profile
 
-Payap University,International College
+Date of Birth: 08.11.2003 
 
-Mueang Chiang Mai, Chiang Mai 500000,Thailand
+Age: 22 years 
 
-https://rbatzing.github.io/
+Nationality: Myanmar 
 
+Ethnicity: Karen 
 
-Curious and open-minded, I enjoy learning, growing, and exploring new ideas. I value honesty, meaningful connections, and always aim to leave things better than I found them.
+Gender: Female 
 
-Education
+Marital Status: Single 
 
-Marticulation Examination Myanmar ( 2021)
+Religion: Christian 
 
-Diploma in Business Mabagement (PS Business College)
+Passport No: MJ054822 
 
-Experience
+Education Background
 
-Interests
+Bachelor of English for Career Development (Second Year) 
 
-Contact Info
-Web Page
-LinkedIn
-Twitter
-Google Scholar
-Research Gate
+Payap University, Thailand (January 2025 – Current) 
 
+ABE Level 5 Diploma in Business Management 
++1
+
+PS Business School, Myanmar (June 2024 – Break) 
++1
+
+ABE Level 4 Diploma in Business Management 
+
+PS Business School, Myanmar (June 2023 – May 2024) 
+
+Professional Diploma in Human Resource Management & Development 
+
+Strategy First University, Myanmar (2022 – 2023) 
+
+Matriculation Exam 
+
+Kaung Su San Private High School, Myanmar (Passed 2020) 
+
+Work Experience
+
+Volunteer | Youth Entrepreneurship Program American Center Yangon (April 24, 2024 – May 2, 2024) 
+
+Communicated with participants regarding the workshop.
+
+Assisted the program leader during the workshop.
+
+Facilitated group activities during the workshop.
+
+Skills & Interests
+
+Languages: Burmese, Karen, and English.
+
+Computer Skills: Microsoft Word, PowerPoint, Canva, and Internet/Email.
+
+Interpersonal Skills: Honest, reliable, friendly, and a strong willingness to learn new things.
+
+Interests & Hobbies: Social work, cooking, and handmade crafts.
